@@ -36,8 +36,10 @@ Ensure you have `Node.js` (v18+) and standard package managers like `npm`, `yarn
 
 ## Screenshots
 *(Provide your screenshots here before final submission)*
-- `Screenshot 1.png` - Showing the Dashboard (Dark Mode)
-- `Screenshot 2.png` - Showing the Dashboard (Light Mode)
+- <img width="1891" height="1021" alt="image" src="https://github.com/user-attachments/assets/ccd1524c-1757-43b8-925b-5bbb526418e3" />
+
+-<img width="1872" height="1024" alt="image" src="https://github.com/user-attachments/assets/2cdec70d-5c68-4835-b92e-4af619290f96" />
+
 
 ## Assumptions Made
 
